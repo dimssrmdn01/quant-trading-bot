@@ -1,0 +1,8 @@
+# Mengabaikan file kredensial rahasia
+config/keys.json
+
+# Mengabaikan rekam jejak aktivitas bot
+logs/
+
+# Mengabaikan file cache bawaan Python
+__pycache__/
